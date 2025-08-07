@@ -1,6 +1,6 @@
-# Data-Art
+#Timeline Project
 
-Timeline Project
+
 Stage 1: Basic HTML Structure
 This file represents the initial static structure for a web-based timeline application. It consists of a single index.html file built with semantic HTML5 tags.
 
